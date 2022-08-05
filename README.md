@@ -11,7 +11,7 @@ We were tasked with constructing two tables. One to determine the number of reti
 
   * There are currently 72,458 employees that are going to retire.
   
-  unique_titles.png
+  unique_titles.pnghttps://github.com/MarckBoge/Pewlett_Hackard_Analysis/blob/main/Resources/unique_titles.png
 
   * Senior Engineers has the high amount of retirees out of all the positions. Major of the retirees are in leadership roles.
 
