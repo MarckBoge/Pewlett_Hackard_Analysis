@@ -9,7 +9,7 @@ We were tasked with constructing two tables. One to determine the number of reti
 
 ## Results
 
-  * There are currently 72,458 employees that are going to retire.
+  * There are currently 72,458 employees that is scheduled to retire.
   
   unique_titles.png
   
@@ -35,3 +35,18 @@ We were tasked with constructing two tables. One to determine the number of reti
 
 ## Summary
 
+
+  * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+  ** The Silver Tsunami poses a major threat to Pewlett Hackard's future. Pewlett Hackard will need to replace 72,458 employees. 35.77% of which is Senior      
+     Engineers, in whole 76.65% are employees in leadership roles. So in total 24.15% of there work force is retiring.
+
+  * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+  **  The total number of eligible to participate for the mentorship program is 1,549, that only 2.14% of retirees. There are 72,458 employees retiring. To 
+      replace the loss in work force each participate would have to train 47 new employees. Thats a large work load. Pewlett Hackard needs to increase  
+      eligible participates.
+
+## Conclusion
+
+With my finding depending on the time frame of the retirees to go in to effect. Pewlett Hackard can train enough employees to replace the work force given enough time. Steps should be in place for this type of issue not to occur.  
